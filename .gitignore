@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Test output
+test
+
+# Obsidian workspace state
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+
+# OS
+.DS_Store
+Thumbs.db
+.claude
